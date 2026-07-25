@@ -1,4 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mishkat 👋
+
+🎓 Computer Science & Engineering Student
+
+## Currently Learning
+- Git & GitHub
+- C++
+- Java
+- HTML, CSS, JavaScript
+- Data Structures & Algorithms
+
+## Goals for 2026
+- Build 20+ projects
+- Contribute to Open Source
+- Learn Backend Development
+- Become a Software Engineer
+
+## Technologies
+
+- C
+- C++
+- Java
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+
+Thanks for visiting my profile!
 
 <!--
 **mishkatdev/mishkatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
