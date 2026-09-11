@@ -12,8 +12,6 @@
 ## Goals for 2026
 - Build 20+ projects
 - Contribute to Open Source
-- Learn Backend Development
-- Become a Software Engineer
 
 ## Technologies
 
